@@ -4,7 +4,7 @@ import random
 def lotto():
     """
     Function imitating a lotto draw. The user inputs six numbers and the functions prints them in a sorted list,
-    prints another list with six random numbers without repetitions and shows the result, i.e. the numebr of successful
+    prints another list with six random numbers without repetitions and shows the result, i.e. the number of successful
     hits.
     :return: None
     """
